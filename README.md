@@ -11,7 +11,7 @@ This project implements a Transformer-based Neural Machine Translation (NMT) mod
 * **Evaluation Metrics**: Supports BLEU score evaluation for translation quality.
 
 ## Dataset
-The dataset used for training consists of paired sentences in English and French.
+The dataset used for training consists of paired sentences in English and Spanish.
 Data Preprocessing includes:
 * Adding special tokens (`<sos>` and `<eos>`) to target sentences.
 * Tokenization and padding of sentences to a maximum length.
